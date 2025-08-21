@@ -1,0 +1,310 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+.navbar-brand img {
+    width: 200px;
+}
+
+.navbar-nav {
+    align-items: center !important;
+}
+
+.nav-item .nav-link {
+    font-size: 16px;
+    font-weight: 700;
+    font-family: "Sansation", sans-serif;
+    text-transform: uppercase;
+    color: #1c3261;
+}
+
+.nav-item .nav-link:hover {
+    color: #eb2129;
+}
+
+.dropdown-menu {
+    background-color: #fff;
+}
+
+.dropdown-menu .dropdown-item {
+    color: #1c3261;
+    font-family: "Sansation", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.dropdown-menu .dropdown-item:hover {
+    color: #eb2129;
+    background-color:#1c3261;
+}
+
+.btn {
+    background-color: #1c3261;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: "Sansation", sans-serif;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+.btn:hover {
+    background-color: #eb2129;
+    color: #fff;
+}
+
+.aboutsection .container h2 {
+    color: #eb2129;
+    font-family: "Sansation", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.aboutsection .container h2 span {
+    color: #1c3261;
+    font-size: 40px;
+    font-weight: 900;
+
+}
+
+.about-content h2 {
+    color: #eb2129;
+}
+
+.about-content h5 {
+    color: #1c3261;
+    font-family: "Sansation", sans-serif;
+}
+
+.about-content p {
+    color: #000;
+    font-family: "Sansation", sans-serif;
+
+}
+
+.about_image img {
+    height: 400px;
+    width: 400px;
+    border: raduis;
+    border-radius: 50%;
+    border: 20px solid #ffffff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.carousel-caption h5 {
+    color: #eb2129;
+    font-family: "Sansation", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+
+}
+
+.carousel-caption p {
+    color: black;
+    font-family: "Sansation", sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+.cardsection {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f5f6f6
+}
+
+.serivce-section h1 {
+    color: #eb2129;
+    font-family: "Sansation", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.card {
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.service-section h1 {
+    color: #eb2129;
+    font-family: "Sansation", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.card-body .card-title {
+    color: #eb2129;
+    font-family: "Sansation", sans-serif;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.card-body .card-text {
+    color: black;
+    font-family: "Sansation", sans-serif;
+}
+
+.footersection {
+    background-color: white;
+}
+
+.contentfooter img {
+    width: 200px;
+    padding: 10px;
+
+
+}
+
+.contentfooter p {
+    color: black;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: "Sansation", sans-serif;
+    text-align: justify;
+}
+
+.icons {
+    padding: 2px;
+}
+
+.icons i {
+    color: #1c3261;
+    font-size: 24px;
+    transition: transform 0.2s, color 0.2s;
+}
+
+.text-uppercase {
+    color: #eb2129;
+    font-family: "Sansation", sans-serif;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.list-unstyled li a {
+    color: #1c3261;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: "Sansation", sans-serif;
+}
+
+.four h3 {
+    color: #eb2129;
+    font-family: "Sansation", sans-serif;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.icon i {
+    color: #1c3261;
+    font-size: 20px;
+
+}
+
+.icon span {
+    color: #1c3261;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: "Sansation", sans-serif;
+
+}
+
+.fotterdown {
+    background-color: #1c3261;
+    text-align: center;
+}
+
+.text-center .paragraph {
+    color: #eb2129;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: "Sansation", sans-serif;
+    margin: 0px;
+
+}
+
+.footersection {
+    background-color: wheat;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.container .contactname h1 {
+    color: #eb2129;
+    font-family: "Sansation", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.row .two {
+    color: #1c3261;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: "Sansation", sans-serif;
+}
+
+.form-label {
+    color: #eb2129;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: "Sansation", sans-serif;
+}
+
+.accordion-button {
+    color: #eb2129;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: "Sansation", sans-serif;
+}
+
+.accordion-body {
+    color: black;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: "Sansation", sans-serif;
+}
+
+.form-control {
+    border: 2px solid;
+    border-radius: 0;
+    color: #1c3261;
+}
+
+.form-control:focus {
+    border: 2px solid;
+    border-radius: 0;
+    color: #eb2129;
+    box-shadow: none;
+}
+
+.modal-title {
+    color: #eb2129;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: "Sansation", sans-serif;
+}
+
+.modal-body {
+    color: black;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: "Sansation", sans-serif;
+}
+
+.accordion-header {
+    border: none;
+    border: 2px solid;
+    border-radius: 0;
+    color: #1c3261;
+}
+
+.accordion-body {
+    background-color: #86a5e9;
+
+}
+
+.accordion-button {
+    background-color: rgb(255, 255, 255);
+}
