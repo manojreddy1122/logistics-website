@@ -3,6 +3,7 @@
 .navbar-brand img {
     width: 200px;
     color: red;
+    background-color:yellow;
 }
 
 .navbar-nav {
